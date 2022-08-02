@@ -1,30 +1,34 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
-> these are necessary for basic usability
+- As a user i can easily understand what the site is about
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - [ ] There is a prominent title at the top-left of the page
+  - [ ] _A description about the website._
+  - [ ] _At the top-right of the webpage there is a navbar_
+  - [ ] _every user should be able to see the statistical data about
+        deployments, published and projects_
+
+- As a user i should be able to see the social media links in the footer
+
+  - [ ] _There's a footer with social media links_
+
+- As a user i can see the authenticity of the website.
+
+  - [ ] _there's a copyright in the footer section_
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a user I can see the programming languages supported
+
+  - [ ] _There is a section for supported programming languages_
+
+- As a user I should be redirected to the respective pages when i click on the
+  header links.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- link to the demo
