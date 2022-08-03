@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- Project name : Leroki-website
+- Project name
 - General info
 - Screenshots
 - Technologies
@@ -21,7 +21,7 @@
 
 ### Name of our project
 
-> Loruki is a website offering cloud services.
+> Loruki is a website offering cloud services
 
 ### General info
 
@@ -145,5 +145,16 @@ The project is: in progress
 ## Contact
 
 [HYF-Class19-Group2](https://hyf-class19.github.io/agile-development-loruki-group-2/)
+
+## Group Members
+
+| Name                | GitHub Links                                          |
+| ------------------- | ----------------------------------------------------- |
+| **Anita Sharma**    | [AnitaSharma2022](https://github.com/AnitaSharma2022) |
+| **Helen**           | [Helen-HYF](https://github.com/Helen-HYF)             |
+| **John Olutubo**    | [JohnOlutubo](https://github.com/JohnOlutubo)         |
+| **Michael Mugaiga** | [MichaelMugaiga](https://github.com/MichaelMugaiga)   |
+| **Renjani**         | [renjani2022](https://github.com/renjani2022)         |
+| **Thomas Ayissi**   | [thomas-ayissi](https://github.com/thomas-ayissi)     |
 
 ## How to use
