@@ -19,7 +19,7 @@
 - Continuous integration
 - Repository setup
 
-### Project name
+### Name of our project
 
 > Loruki is a web site allowing to download applications.
 
