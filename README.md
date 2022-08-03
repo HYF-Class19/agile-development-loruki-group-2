@@ -146,21 +146,16 @@ The project is: in progress
 
 [HYF-Class19-Group2](https://hyf-class19.github.io/agile-development-loruki-group-2/)
 
-- Anita Sharma
-- Helen
-- John Olutubo
-- Michael Mugaiga
-- Renjani
-- Thomas Ayissi
+
 ## Group Members
 
-| Name                | GitHub Links                                        |
-| ------------------- | --------------------------------------------------- |
-| Annass Abbar        | [anasabbar](https://github.com/anasabbar)           |
-| Barnabas Jema       | [Lemma-Barnabas](https://github.com/Lemma-Barnabas) |
-| Nashmia Burki       | [nashmiab](https://github.com/nashmiab)             |
-| Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         |
-| Renjani | [podnesTaF](https://github.com/podnesTaF)           |
-| Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
+| Name                | GitHub Links                                             |
+|---------------------|----------------------------------------------------------|
+| **Anita Sharma**    | [AnitaSharma2022](https://github.com/AnitaSharma2022)    |
+| **Helen**           | [Helen-HYF](https://github.com/Helen-HYF)                |
+| **John Olutubo**    | [JohnOlutubo](https://github.com/JohnOlutubo)            |
+| **Michael Mugaiga** | [MichaelMugaiga](https://github.com/MichaelMugaiga)      |
+| **Renjani**         | [renjani2022](https://github.com/renjani2022)            |
+| **Thomas Ayissi**   | [thomas-ayissi](https://github.com/thomas-ayissi)        |
 
 ## How to use
