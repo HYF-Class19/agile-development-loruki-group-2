@@ -32,9 +32,7 @@
 ### Screenshots
 
 ![Page one](Loruki-Page1IndexHtml.png)
-
 ![Page two](Loruki-Page2-FeaturesHtml.png)
-
 ![Page three](Loruki-Page3-DocsHtml.png)
 
 ### Technologies
