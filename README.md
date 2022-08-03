@@ -31,9 +31,11 @@
 
 ### Screenshots
 
-![Sample screenshot](Loruki-Page1IndexHtml.png)
-![Sample screenshot](Loruki-Page2-FeaturesHtml.png)
-![Sample screenshot](Loruki-Page3-DocsHtml.png)
+![Page one](Loruki-Page1IndexHtml.png)
+
+![Page two](Loruki-Page2-FeaturesHtml.png)
+
+![Page three](Loruki-Page3-DocsHtml.png)
 
 ### Technologies
 
