@@ -21,7 +21,7 @@
 
 ### Name of our project
 
-> Loruki is a web site allowing to download applications.
+> Loruki : To provide web hosting and cloud services
 
 ### General info
 
