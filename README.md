@@ -21,7 +21,7 @@
 
 ### Name of our project
 
-> Loruki : To provide web hosting and cloud services
+> Loruki is a website offering cloud services
 
 ### General info
 
