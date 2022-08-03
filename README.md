@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- Project name : Leroki-website
+- Project name
 - General info
 - Screenshots
 - Technologies
