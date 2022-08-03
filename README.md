@@ -4,26 +4,26 @@
 
 ## Table of contents
 
-- [Project name](#) : Leroki-website
-- [General info](#)
-- [Screenshots](#)
-- [Technologies](#)
-- [Configuration](#)
-- [Code examples](#)
-- [Features](#)
-- [Status](#)
-- [Inspiration](#)
-- [Contact](#)
-- Instructions for use](#instructions-for-use)
-- Code quality checks](#code-quality-checks)
-- Continuous integration (CI)](#continuous-integration-ci)
-- Repository setup](#repo-setup)
+- Project name : Leroki-website
+- General info
+- Screenshots
+- Technologies
+- Configuration
+- Code examples
+- Features
+- Status
+- Inspiration
+- Contact
+- Instructions for use
+- Code quality checks
+- Continuous integration
+- Repository setup
 
 ## Project name
 
 > Loruki is a web site allowing to download applications.
 
-### [General info](#)
+### General info
 
 1. Home
 2. Features
@@ -128,7 +128,7 @@ quality scripts locally.
 -
 -
 
-### List of things to do :
+### List of things to do
 
 -
 -
