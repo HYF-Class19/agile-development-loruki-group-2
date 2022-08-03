@@ -149,7 +149,7 @@ The project is: in progress
 ## Group Members
 
 | Name                | GitHub Links                                          |
-| ------------------- | ----------------------------------------------------- |
+|---------------------|-------------------------------------------------------|
 | **Anita Sharma**    | [AnitaSharma2022](https://github.com/AnitaSharma2022) |
 | **Helen**           | [Helen-HYF](https://github.com/Helen-HYF)             |
 | **John Olutubo**    | [JohnOlutubo](https://github.com/JohnOlutubo)         |
