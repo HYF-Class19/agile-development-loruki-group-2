@@ -21,7 +21,9 @@
 
 ### Name of our project
 
-> Loruki is a website offering cloud services
+
+> Loruki is a website offering cloud services.
+
 
 ### General info
 
