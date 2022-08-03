@@ -16,7 +16,10 @@
     "WIREFRAME",
     "Wireframes",
     "Yodiz",
-    "Zepel"
+    "Zepel",
+    "Loruki",
+    "Leroki",
+    "Flexbox"
   ],
   "ignorePaths": [
     "node_modules/**",
