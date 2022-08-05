@@ -58,6 +58,7 @@ pre {
 }
 
 /* Navbar */
+
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
@@ -83,6 +84,7 @@ pre {
 }
 
 /* Showcase */
+
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
@@ -152,6 +154,7 @@ pre {
 }
 
 /* Stats */
+
 .stats {
   padding-top: 100px;
   animation: slideInFromBottom 1s ease-in;
@@ -183,6 +186,7 @@ pre {
 }
 
 /* Cloud */
+
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
 }
@@ -209,6 +213,7 @@ pre {
 }
 
 /* Features */
+
 .features-head img {
   width: 200px;
   justify-self: flex-end;
@@ -237,6 +242,7 @@ pre {
 
 
 /* Docs */
+
 .docs-main h3 {
   margin: 20px 0;
 }
@@ -258,6 +264,7 @@ pre {
 }
 
 /* Footer */
+
 .footer .social a {
   margin: 0 10px;
 }
@@ -279,6 +286,7 @@ pre {
 }
 
 /* Animations */
+
 @keyframes slideInFromLeft {
   0% {
     transform: translateX(-100%);
@@ -320,6 +328,7 @@ pre {
 }
 
 /* Tablets and under */
+
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
@@ -372,6 +381,7 @@ pre {
 }
 
 /* Mobile */
+
 @media (max-width: 500px) {
   .navbar {
     height: 110px;

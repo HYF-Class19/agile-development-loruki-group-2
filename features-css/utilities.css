@@ -38,6 +38,7 @@
 }
 
 /* Backgrounds & colored buttons */
+
 .bg-primary,
 .btn-primary {
   background-color: var(--primary-color);
@@ -72,6 +73,7 @@
 }
 
 /* Text colors */
+
 .text-primary {
   color: var(--primary-color);
 }
@@ -89,6 +91,7 @@
 }
 
 /* Text sizes */
+
 .lead {
   font-size: 20px;
 }
@@ -114,6 +117,7 @@
 }
 
 /* Alert */
+
 .alert {
   background-color: var(--light-color);
   padding: 10px 20px;
@@ -156,6 +160,7 @@
 }
 
 /* Margin */
+
 .my-1 {
   margin: 1rem 0;
 }
@@ -197,6 +202,7 @@
 }
 
 /* Padding */
+
 .py-1 {
   padding: 1rem 0;
 }
