@@ -56,6 +56,13 @@ img {
   border-bottom: 2px #fff solid;
 }
 
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
 .navbar .flex {
   justify-content: space-between;
 }
@@ -67,9 +74,4 @@ img {
   padding: 0 40px;
 }
 
-.flex {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
+
