@@ -4,4 +4,4 @@
 
 ## External constraint
 
-- Every group member is working so time constraint.
+- Difficulties in accessing good internet connection to conduct online meetings
