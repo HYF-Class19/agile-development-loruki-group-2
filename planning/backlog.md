@@ -10,6 +10,10 @@
   - [ ] _every user should be able to see the statistical data about
         deployments, published and projects_
 
+- As a user i can navigate to other pages of the website using the navbar
+
+- [ ] _there is a header navbar with links to other pages of the website_
+
 - As a user i should be able to see the social media links in the footer
 
   - [ ] _There's a footer with social media links_

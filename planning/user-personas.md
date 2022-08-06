@@ -4,7 +4,7 @@
 
 ---
 
-**Web developer:** hosting his website/web app
+**Web developers:** hosting their website/web apps
 
 **Bio:** John Doe is a freelance web developer who develops web apps and host on
 the cloud platform.
