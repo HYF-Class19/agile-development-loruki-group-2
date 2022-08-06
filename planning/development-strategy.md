@@ -50,18 +50,6 @@ The site needs a clear title that's easy to read at the top-left of the page.
 - [ ] style elements, hover (issue)
 - [ ] place elements using flex (issue)
 
-## Content
-
-> "As a user I can read the description about the website"
-
-It should be clear about the purpose of the website.
-
-- [ ] there is a description section below the title explaining the website
-- [ ] a section that mentions the statistical data
-- [ ] a section that guide a user on how to instal Loruki-cli
-- [ ] a section describing extreme cloud hosting services
-- [ ] a section for supported programming languages
-
 ## Home - Page 1 - index.html
 
 ### Content: HTML
