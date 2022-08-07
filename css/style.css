@@ -74,9 +74,12 @@ img {
   height: 100%;
 }
 
+
 .navbar .flex {
   justify-content: space-between;
 }
+
+
 
 .container {
   max-width: 1100px;
